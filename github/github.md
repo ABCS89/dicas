@@ -1,6 +1,9 @@
 git init > inicia o git
 
-git remote -v > mostra a origem do git.
+git add <.> para adicionar tudo ou 
+git add <nome_do_arquivo> para adicionar arquivos especificos
+
+git commit -m "<comentario>"
 
 git status > mostra o status de git da branch atual
 
@@ -18,3 +21,4 @@ MERGE
 Para inserir a branch <nome_da_branch> na branch MAIN, vá para a branch main, e digite:
 git merge <nome_da_branch> para fazer o merge de <nome_da_branch> para a branch MAIN.
 
+git remote -v > mostra a origem do git.
