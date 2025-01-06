@@ -1,6 +1,6 @@
 git init > inicia o git
 
-git
+git remote -v > mostra a origem do git.
 
 git status > mostra o status de git da branch atual
 
