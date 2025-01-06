@@ -22,3 +22,9 @@ Para inserir a branch <nome_da_branch> na branch MAIN, vá para a branch main, e
 git merge <nome_da_branch> para fazer o merge de <nome_da_branch> para a branch MAIN.
 
 git remote -v > mostra a origem do git.
+
+
+NO REBASE
+NO REBASE
+NO REBASE
+NO REBASE
