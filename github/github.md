@@ -23,4 +23,4 @@ git merge <nome_da_branch> para fazer o merge de <nome_da_branch> para a branch 
 
 git remote -v > mostra a origem do git.
 
-git rebase <nome_da_branch> para puxar a branch para a atual.
+git rebase <nome_da_branch> para puxar a branch para a atual. (usado para puxar da branch principal para trabalhar e depois fazer merge na principal.)
