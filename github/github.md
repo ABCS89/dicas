@@ -13,3 +13,8 @@ git branch -d <nome_da_branch> exclui a branch que não está commitada
 git branch -D <nome_da_branch> exclui forçadamente a branch, mesmo estando commitada.
 
 git log > mostra o historico de commits
+
+MERGE
+Para inserir a branch <nome_da_branch> na branch MAIN, vá para a branch main, e digite:
+git merge <nome_da_branch> para fazer o merge de <nome_da_branch> para a branch MAIN.
+
