@@ -27,9 +27,8 @@ git remote -v > mostra a origem do git.
 REBASE
 git rebase <nome_da_branch> para puxar a branch para a atual. (usado para puxar da branch principal para trabalhar e depois fazer merge na principal.)
 
-<<<<<<< HEAD
 
-Cherry Pick
-=======
-git cherry-pick <numero_da_hash> para puxar para a branch sem fazer merge de tudo, somente do respectivo commit.
->>>>>>> feature/cherry_pick
+Para renomear a pasta e o repositório no git.
+git remote -v
+git remoe set-url origin <endereco_url_nova>
+git fetch origin.
